@@ -22,4 +22,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kritthik2609&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kritthik2609&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=parv-nair&icon=0&color=1)](https://visitcount.itsvg.in)
+
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/parv-nair/count.svg?"  />
+</div>
