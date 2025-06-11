@@ -33,9 +33,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kritthik2609/count.svg?"  />
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img color=#00FFFF"  align="center" src="https://profile-counter.glitch.me/{Kritthik2609}/count.svg" /></p> 
-<br>
-</div>
