@@ -30,6 +30,7 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kritthik2609/count.svg?"/>
+<div style="text-align: center;">
+  <img src="https://profile-counter.glitch.me/Kritthik2609/count.svg" alt="Visitor counter" />
 </div>
+
