@@ -30,5 +30,8 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
+## 👀 Visitor Count
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kritthik2609.Kritthik2609)
 
 
