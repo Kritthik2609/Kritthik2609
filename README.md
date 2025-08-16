@@ -30,5 +30,5 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-![Visitor Count](https://profile-counter.glitch.me/Kritthik2609/count.svg)
+
 
