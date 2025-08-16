@@ -30,16 +30,10 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-## 👀 Visitor Count
-
----
-
-<h2 align="center">✨ Visitor Count ✨</h2>
+<h2 align="center">👀 Visitor Count 👀</h2>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kritthik2609.Kritthik2609" alt="Visitor Badge" />
 </p>
-
----
 
 
