@@ -1,13 +1,9 @@
 # 💫 About Me:
 🎓 Computer Science & Engineering student passionate about code, creativity, and innovation<br><br>💡 Love turning ideas into real-world projects through hands-on learning<br><br>🔍 Always exploring emerging technologies and staying curious<br><br>🧠 Learning by doing: embracing project-based learning to sharpen my skills<br><br>💼 Actively looking for tech internships to grow, contribute, and make an impact<br><br>🤝 Inspired by connecting with tech professionals and entrepreneurs<br><br>🗣️ Believe in learning from real stories, challenges, and shared experiences<br><br>🚀 Excited to tackle the dynamic challenges of the tech world<br><br>🌐 Let’s connect and explore new possibilities together!
 
-
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
-
-
 ![GitHub Pro](https://img.shields.io/badge/Pro-Developer-purple?style=for-the-badge)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritthik-rajeev-nair) 
@@ -34,7 +30,7 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-<h2 align="center">👀 Visitor Count 👀</h2>
+<h2 align="center">👀 Profile Views 👀</h2>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kritthik2609.Kritthik2609" alt="Visitor Badge" />
